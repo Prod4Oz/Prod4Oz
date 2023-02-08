@@ -5,12 +5,7 @@
 	<h3>I am a Junior Java Developer</h3>
 </div>
 
-<div id="socials" align="center">
-	
-	<a href="telegram-url">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
-</div>
+
 
 <!--
 **Prod4Oz/Prod4Oz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
